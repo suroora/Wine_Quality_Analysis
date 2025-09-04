@@ -42,10 +42,9 @@ We explore the dataset with **vectors, matrices, covariance, eigen decomposition
 
 ## 📊 Visualizations
 - **Histogram of Wine Quality**
-  ![Quality Histogram]
 
 - **Scatter Plot (Alcohol vs Density) with Eigenvectors**
-  ![Alcohol vs Density]
+
 ---
 
 ## 🔎 Key Insights
