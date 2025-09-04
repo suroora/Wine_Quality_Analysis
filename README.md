@@ -42,15 +42,10 @@ We explore the dataset with **vectors, matrices, covariance, eigen decomposition
 
 ## 📊 Visualizations
 - **Histogram of Wine Quality**
-  ![Quality Histogram](wine_quality_hist.png)
+  ![Quality Histogram]
 
 - **Scatter Plot (Alcohol vs Density) with Eigenvectors**
-  ![Alcohol vs Density](alcohol_density_eigvecs.png)
-
-- **Distribution Curve (KDE) for Wine Quality**
-  - Shows probability distribution of quality scores.
-  - Peak at 5–6, tails at 3 and 8.
-
+  ![Alcohol vs Density]
 ---
 
 ## 🔎 Key Insights
